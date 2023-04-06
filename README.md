@@ -17,6 +17,7 @@ Hii i'm Ali and i'm from indonesia,and i'm interested in computing stuff like co
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
 ## Thanks For Coming Have A Great Day🙏
 <img src="https://github.com/alimasyhuriasghor/alimasyhuriasghor/blob/main/aniyuki-hello-20.gif" width="300px"/>

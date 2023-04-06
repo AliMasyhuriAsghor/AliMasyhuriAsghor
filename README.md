@@ -3,7 +3,7 @@
 ![I am a self taught programmer](https://github.com/alimasyhuriasghor/alimasyhuriasghor/blob/main/784f7e812bfbc7a28c17d361e102de53%20(3).jpg)
 
 ## About Me
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Hii i'm Ali and i'm from indonesia,and i'm interested in computing stuff like coding,<strong>Artifical Intelligence(AI)</strong> and <b>Cyber-Security</b>.I love to learn programming especially <b>python</b> and my additional skill is <i>javascript</i>,i already fell in love with programming because from programming I can express and almost build anything that I want to build.i'm very easy going person so if you guys got any questions let me know in my ig dm don't hesitate to ask okey i'll be willing to help as i can because making other people's is also my duty
 
 ## My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimasyhuriasghor&show_icons=true&theme=synthwave)
@@ -19,6 +19,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Thanks For Coming Have A Great Day🙏
+<img src="https://github.com/alimasyhuriasghor/alimasyhuriasghor/blob/main/aniyuki-hello-20.gif" width="300px"/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alimasyhuriasghor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alimasyuri_asghor/)  
 

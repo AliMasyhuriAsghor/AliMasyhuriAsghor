@@ -19,6 +19,20 @@ Hii i'm Ali and i'm from indonesia,and i'm interested in computing stuff like co
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
+## Advantage And Disadvantages
+<table border="1px">
+        <th>Advantage</th>
+        <th>Disadvantages</th>
+        <tr>
+            <td>Using Interpreted Languages</td>
+            <td>I'm Very Bad At Using Compiled Languages</td>
+        </tr>
+        <tr>
+            <td>Diligent,Calm And Easy Going Person</td>
+            <td>Not Interested In Mobile Programming</td>
+        </tr>
+</table>
+
 ## Thanks For Coming Have A Great Day🙏
 <img src="https://github.com/alimasyhuriasghor/alimasyhuriasghor/blob/main/aniyuki-hello-20.gif" width="300px"/>
 

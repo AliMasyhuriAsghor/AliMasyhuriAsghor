@@ -15,6 +15,13 @@ Hii i'm Ali and i'm from indonesia,and i'm interested in computing stuff like co
 ## My LeetCode Click The Badge To See
 <a href="https://leetcode.com/Alis_inTheSkys/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
 
+## Skills*In-Progress
+<ul>
+    <li>Machine-Learning</li>
+    <li>Python</li>
+    <li>DSA</li>
+</ul>
+
 ## Machine-Learning FrameWorks/Data-science And Quantum Programming Module That I Used or I'll Use It One Day
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)

@@ -11,6 +11,10 @@ Hii i'm Ali and i'm from indonesia,and i'm interested in computing stuff like co
 ## My Favourite Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimasyhuriasghor&layout=compact)](https://github.com/alimasyhuriasghor/github-readme-stats)
 
+
+## My LeetCode Click The Badge To See
+<a href="https://leetcode.com/Alis_inTheSkys/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+
 ## Machine-Learning FrameWorks/Data-science And Quantum Programming Module That I Used or I'll Use It One Day
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)

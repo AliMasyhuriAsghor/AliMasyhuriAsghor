@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Ali
+# Hi there 👋, My Name Is Ali
 ## I am a self taught programmer
 ![I am a self taught programmer](https://github.com/alimasyhuriasghor/alimasyhuriasghor/blob/main/784f7e812bfbc7a28c17d361e102de53%20(3).jpg)
 

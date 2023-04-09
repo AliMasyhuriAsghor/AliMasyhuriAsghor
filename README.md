@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Ali
-#### I am a self taught programmer
+# Hi there 👋, my name is Ali
+## I am a self taught programmer
 ![I am a self taught programmer](https://github.com/alimasyhuriasghor/alimasyhuriasghor/blob/main/784f7e812bfbc7a28c17d361e102de53%20(3).jpg)
 
 ## About Me

@@ -38,11 +38,11 @@ Hii i'm Ali and i'm from indonesia,and i'm interested in computing stuff like co
         <th>Disadvantages</th>
         <tr>
             <td>Using Interpreted Languages</td>
-            <td>I'm Very Bad At Using Compiled Languages</td>
+            <td>I'm Very Bad At Using Compiled Languages🥲</td>
         </tr>
         <tr>
             <td>Diligent,Calm And Easy Going Person</td>
-            <td>Not Interested In Mobile Programming</td>
+            <td>Not Interested In Mobile Programming😔🙏</td>
         </tr>
 </table>
 

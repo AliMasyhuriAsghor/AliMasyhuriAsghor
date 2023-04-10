@@ -1,6 +1,6 @@
 # Hi there 👋, My Name Is Ali
 ## I am a self taught programmer
-![I am a self taught programmer](https://github.com/alimasyhuriasghor/alimasyhuriasghor/blob/main/784f7e812bfbc7a28c17d361e102de53%20(3).jpg)
+![I am a self taught programmer](https://github.com/alimasyhuriasghor/alimasyhuriasghor/blob/main/IMG_20230401_183647.jpg)
 
 ## About Me
 Hii i'm Ali and i'm from indonesia,and i'm interested in computing stuff like coding,<strong>Artifical Intelligence(AI)</strong> and <b>Cyber-Security</b>.I love to learn programming especially <b>python</b> and my additional skill is <i>javascript</i>,i already fell in love with programming because from programming I can express and almost build anything that I want to build.i'm very easy going person so if you guys got any questions let me know in my ig dm don't hesitate to ask okey i'll be willing to help as i can because making other people's is also my duty

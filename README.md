@@ -9,7 +9,7 @@ Hii i'm Ali and i'm from indonesia,and i'm interested in computing stuff like co
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimasyhuriasghor&show_icons=true&theme=synthwave)
 
 ## My Favourite Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimasyhuriasghor&layout=compact)](https://github.com/alimasyhuriasghor/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimasyhuriasghor&langs_count=8)](https://github.com/alimasyhuriasghor/github-readme-stats)
 
 
 ## My LeetCode Click The Badge To See

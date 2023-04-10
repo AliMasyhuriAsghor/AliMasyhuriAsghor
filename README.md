@@ -20,6 +20,7 @@ Hii i'm Ali and i'm from indonesia,and i'm interested in computing stuff like co
     <li>Machine-Learning</li>
     <li>Python</li>
     <li>DSA</li>
+    <li>Penetration-tester</li>
 </ul>
 
 ## Machine-Learning FrameWorks/Data-science And Quantum Programming Module That I Used or I'll Use It One Day

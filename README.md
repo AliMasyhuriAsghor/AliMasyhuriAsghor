@@ -16,7 +16,7 @@ Hii i'm Ali and i'm from indonesia,and i'm interested in computing stuff like co
 <a href="https://leetcode.com/Alis_inTheSkys/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
 
 ## Skills*In-Progress
-<img src="https://github.com/alimasyhuriasghor/alimasyhuriasghor/blob/main/images%20(1).jpeg" width="600px"/>
+<img src="https://github.com/alimasyhuriasghor/alimasyhuriasghor/blob/main/images%20(1).jpeg" width="600px" alt="Ini Sebenernya Ada Fotonya Cuman Kgk Muncul Ae Kalo Dibuka Di GitHub Mobile"/>
 <ul>
     <li>Machine-Learning</li>
     <li>Python</li>

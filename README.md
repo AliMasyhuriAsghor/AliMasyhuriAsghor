@@ -10,7 +10,6 @@ Hii i'm Ali and i'm from indonesia,and i'm interested in computing stuff like co
 
 ## My Favourite Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimasyhuriasghor&langs_count=8)](https://github.com/alimasyhuriasghor/github-readme-stats)
-tikus
 
 ## My LeetCode Click The Badge To See
 <a href="https://leetcode.com/Alis_inTheSkys/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
